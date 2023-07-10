@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << 7 + 2;
+    cout << "sum is:" << 7 + 2;
     return 0;
 }
